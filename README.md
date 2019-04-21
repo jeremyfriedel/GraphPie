@@ -8,4 +8,6 @@ Python graphing of mathematical functions, with both a GUI and CLI to a single P
 - Separation of concerns and OOP allow both interfaces to use the same backend.
 
 
-![alt text](/screenshot.png)
+![gui](/screenshot.png)
+
+![cli](/screenshotcli.png)
