@@ -7,7 +7,7 @@ Python graphing of mathematical functions, with both a GUI and CLI to a single P
 - Cross platform compatible GUI application that works on all three major operating operating systems.
 - Separation of concerns and OOP allow both interfaces to use the same backend.
 
-#Getting Started!
+## Getting Started!
 
 Download the files [here](https://github.com/jeremyfriedel/GraphPie/archive/master.zip)
 
