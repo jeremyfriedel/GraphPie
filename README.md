@@ -7,6 +7,9 @@ Python graphing of mathematical functions, with both a GUI and CLI to a single P
 - Cross platform compatible GUI application that works on all three major operating operating systems.
 - Separation of concerns and OOP allow both interfaces to use the same backend.
 
+#Getting Started!
+
+'pip install' requirements, then run 'python3 guifinal.py' or 'python3 cmdline.py' in a terminal. Double clicking guifinal.py or cmdline.py will work if python laucher is the default program for .py files.
 
 ![gui](/screenshot.png)
 
