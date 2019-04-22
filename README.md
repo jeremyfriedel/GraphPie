@@ -9,6 +9,8 @@ Python graphing of mathematical functions, with both a GUI and CLI to a single P
 
 #Getting Started!
 
+Download the files [here](https://github.com/jeremyfriedel/GraphPie/archive/master.zip)
+
 'pip install' requirements, then run 'python3 guifinal.py' or 'python3 cmdline.py' in a terminal. Double clicking guifinal.py or cmdline.py will work if python laucher is the default program for .py files.
 
 ![gui](/screenshot.png)
